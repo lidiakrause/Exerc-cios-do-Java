@@ -1,4 +1,4 @@
-let ipCodigo = document.querySelector("#IpCodigo");
+let ipCodigo = document.querySelector("#ipCodigo");
 let btAcharProduto = document.querySelector("#btAcharProduto");
 let h3Produto = document.querySelector("#h3Produto");
 
